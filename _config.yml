@@ -83,10 +83,9 @@ author:
   name             : "Yuansen Liu (刘源森)"
   avatar           : "profile.png"
   bio              : "Undergraduate, School of Software, Beihang University"
-  location         : "BeiHang University XueYuan Road No.37,HaiDian District,BeiJing,China"
+  location         : "XueYuan Road No.37,HaiDian,BeiJing"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "liuys2024beihang@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,11 +108,10 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            : "lys2002 (java.lang.IOException)"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://space.bilibili.com/17144466"
+  bilibili         : "https://space.bilibili.com/17144466"
   wikipedia        :
 
 
@@ -176,16 +174,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 

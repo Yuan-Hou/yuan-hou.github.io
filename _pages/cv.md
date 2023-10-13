@@ -11,48 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Beihang University, Beijing, China
+  * School of Software     09/2020-06/2024
+  * Degree: Bachelor of Engineering
+  * GPA: 3.88/4.0  Rank: 3/187
+  * Major: Software Engineering
+  * Scholarship&Honor: 
+    * First Prize of Study Excellence Scholarship  08/2022&08/2021
+    * Outstanding Students  09/2021&09/2021
+
+STANDARDIZED TEST
+======
+- IELTS
+  - 8.0 (L: 9.0  R: 9.0  W:7.5  S:6.0) in 08/2023
+  - 7.5 (L: 8.5  R: 9.0  W:6.5  S:6.5) in 09/2023
+- GRE
+  - 325+3.5 (V: 155  Q: 170) in 05/2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2021: Internship
+  * Baidu Inc.
+  * Task: Write a tutorial about speech data labeling for crowdsourcing platforms
+  * Instructor: Qinghong Yang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: Internship
+  * Caxa Technology Co.
+  * Task: Machine Learning of 3D CAD Models
+  * Instructor: Qian Yu
+  * Supervisor: Liu Fei
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Web Development
+  * Vue
+  * Python (Django & Flask)
+* Game Programming
+  * Java (LibGDX)
+  * Unity (Understand basic concepts)
+* Deep Learning
+  * Pytorch
+  * A first-author CV-oriented paper under review
+* 3D CAD
+  * SolidWorks
+  * Certificate of professional knowledge assessment of industrial and information technology talents
+* Desktop Development
+  * C# (WPF)
+  * Python (PyQt)
+* Skilled in repairing computers
   
 Service and leadership
 ======
