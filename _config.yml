@@ -174,7 +174,10 @@ kramdown:
 
 # Collections
 collections:
-  portfolio:
+  personalwork:
+    output: true
+    permalink: /:collection/:path/
+  coursework:
     output: true
     permalink: /:collection/:path/
 

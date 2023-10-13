@@ -62,6 +62,9 @@ Skills
   * Python (PyQt)
 * Skilled in repairing computers
   
-Service and leadership
+Volunteer Activities
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer, SHIE College Media Promotion
+  * Responsible for the typesetting of some tweets on WeChat public website
+* Volunteer, Pen & Ink Watch volunteer activities
+  * Wrote letters to children in mountainous areas to guide them in their study and life 
