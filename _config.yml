@@ -174,12 +174,13 @@ kramdown:
 
 # Collections
 collections:
-  personalwork:
-    output: true
-    permalink: /:collection/:path/
   coursework:
     output: true
     permalink: /:collection/:path/
+  personalwork:
+    output: true
+    permalink: /:collection/:path/
+  
 
 
 # Defaults
