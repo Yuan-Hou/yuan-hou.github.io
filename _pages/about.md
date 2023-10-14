@@ -8,4 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This is Liu Yuansen's temporary website for application for further education.
+`This is Liu Yuansen's temporary website for application for further education.`
+
+Hello my future mentor! I re this site to organize some of the projects I did during my undergraduate years.
+
+I personally wrote each of the emails you receive one by one, and although I do have templates, the core content was created after carefully reading your recently published papers. I only send emails to professors I'm interested in.
+
+I've listed here the professors I've emailed and their respective progress here: (in chronological order from the first email from early to late)
+
+|Name|Email sent|Responding to my email|Interested|Accepted|
+|-|-|-|-|-|
+|Shurui Zhou|√|√||
+|Mehdi Moradi|√|||
+|Edith Law|√|||
+|WonSook Lee|√|||
+|Jian Zhao|√|||
+
+Have a nice day!
+
+![](/images/me.jpg)
