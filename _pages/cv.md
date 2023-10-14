@@ -21,7 +21,7 @@ Education
     * First Prize of Study Excellence Scholarship  08/2022&08/2021
     * Outstanding Students  09/2021&09/2021
 
-STANDARDIZED TEST
+Standardized Test
 ======
 - IELTS
   - 8.0 (L: 9.0  R: 9.0  W:7.5  S:6.0) in 08/2023
