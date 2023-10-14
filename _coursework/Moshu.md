@@ -1,8 +1,12 @@
 ---
 title: "Software Engineering Practice (1) -- Moshu Design"
-excerpt: "A website for web prototyping that supports multi-person collaboration<br/><img src='/images/moshu.png'>"
+excerpt: "A website for web prototyping that supports multi-person collaboration. <br/><img src='/images/moshu.png'>"
 collection: coursework
 ---
+
+A website for web prototyping that supports multi-person collaboration.
+
+![](/images/moshu.png)
 
 The course required us to form a team of 5 people to develop a website in two iterations within 10 days according to the Agile model.
 

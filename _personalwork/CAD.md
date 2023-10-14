@@ -4,4 +4,8 @@ excerpt: "Classification of faces of 3D models using graph neural networks to ac
 collection: coursework
 ---
 
+Classification of faces of 3D models using graph neural networks to achieve the effect of backcasting the modeling process from generic format CAD models.
+
+![](/images/CAD.png)
+
 In progress...
