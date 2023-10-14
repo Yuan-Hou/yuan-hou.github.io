@@ -1,7 +1,7 @@
 ---
 title: "Aya screenshot"
 excerpt: "A PyQt-based screenshot program that captures a fixed-resolution area at a specified scale to facilitate my collection of illustration datasets on the web.<br/><img src='/images/R.png'>"
-collection: coursework
+collection: personalwork
 ---
 
 A PyQt-based screenshot program that captures a fixed-resolution area at a specified scale to facilitate my collection of illustration datasets on the web.

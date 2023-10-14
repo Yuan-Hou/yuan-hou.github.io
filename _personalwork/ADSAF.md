@@ -1,7 +1,7 @@
 ---
 title: "Calcaneal Fracture Diagnostic Aid System"
 excerpt: "Led a team that developed a software that utilizes computer vision to determine calcaneal fractures.<br/><img src='/images/ADSAF s.png'>"
-collection: coursework
+collection: personalwork
 ---
 
 I am mainly responsible for the design of the overall framework of the software and the training of deep learning models.
