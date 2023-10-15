@@ -23,7 +23,7 @@ I've listed here the professors I've emailed and their respective progress here:
 |Edith Law|√|||
 |WonSook Lee|√|||
 |Jian Zhao|√|||
-|Jialu Zhang|√|||
+|Jialu Zhang|√|√||
 
 Have a nice day!
 
