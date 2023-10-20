@@ -24,8 +24,8 @@ I've listed here the professors I've emailed and their respective progress here:
 |WonSook Lee|√|||
 |Jian Zhao|√|||
 |Jialu Zhang|√|√|√||
-|Wenlong Mou|√|||
-|Jun Jin|√|||
+|Wenlong Mou|√||||
+|Jun Jin|√|√|||
 
 Have a nice day!
 
