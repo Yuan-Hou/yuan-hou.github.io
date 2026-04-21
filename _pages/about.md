@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yuansen Liu | 刘源森"
-excerpt: "MComp AI @ NUS · Incoming PhD applicant"
+excerpt: "MComp AI @ NUS · PhD Applicant"
 author_profile: true
 redirect_from:
   - /about/
@@ -10,9 +10,9 @@ redirect_from:
 
 ## About | 个人简介
 
-I am **Yuansen Liu (刘源森)**, currently in the **MComp (AI) program at the National University of Singapore (NUS)** (expected graduation: **November 2026**), and preparing for **PhD applications** in multimodal reasoning, trustworthy LLMs, and medically grounded AI.
+I am **Yuansen Liu (刘源森)**, an MComp (AI) student at the **National University of Singapore (NUS)** (expected graduation: **November 2026**). I am currently applying for PhD programs in trustworthy and multimodal AI.
 
-我目前就读于**新加坡国立大学（NUS）MComp AI**项目（预计 **2026 年 11 月**毕业），正在申请博士阶段，研究兴趣主要集中在**可信大模型、多模态推理与医疗智能**。
+我目前就读于**新加坡国立大学（NUS）MComp AI**项目（预计 **2026 年 11 月**毕业），正在申请博士，研究方向为**可信大模型、多模态推理与医疗智能**。
 
 Previously, I received my B.Eng. in Software Engineering from **Beihang University** (GPA **3.86/4.0**, Rank **4/187**).
 
@@ -20,10 +20,10 @@ Previously, I received my B.Eng. in Software Engineering from **Beihang Universi
 
 ## Research Interests
 
-- **Trustworthy LLMs and agent reasoning security** (e.g., reasoning hijacking / criteria injection).
-- **Multimodal large language models (MLLMs)** with a focus on human-centric and medical reasoning.
-- **Vision-language data engineering** and robust benchmarking.
-- **Controllable generation** (e.g., text-to-speech emotion/duration control, long-term multimodal animation).
+- Trustworthy LLMs and reasoning robustness
+- Multimodal large language models (MLLMs)
+- Medical AI and clinically grounded multimodal reasoning
+- Controllable generation (TTS / animation)
 
 ---
 
@@ -45,43 +45,23 @@ Previously, I received my B.Eng. in Software Engineering from **Beihang Universi
 ### Machine Learning Engineer Intern, TikTok (ByteDance)
 **Feb 2026 – Aug 2026**
 
-- Engineered and deployed an automated compliance review system using multimodal LLMs for Proof of Address verification.
-- Worked with large-scale, heterogeneous, and adversarial real-world image data in security-sensitive workflows.
-- Investigated practical bottlenecks in black-box model interpretability and inference efficiency.
+- Developed and deployed an automated compliance-review system with multimodal LLMs for Proof-of-Address verification.
+- Processed large-scale heterogeneous and adversarial real-world image data in security-sensitive production workflows.
+- Investigated interpretability and efficiency bottlenecks in black-box model deployment.
 
-### Golang Backend Developer, Shopee
+### Golang Backend Developer, Shopee (Full-time)
 **Sep 2024 – Jun 2025**
 
-- Designed and implemented an automatic promotion-renewal system supporting 5,000+ promotions and 20,000+ SKUs.
-- Reduced Taiwan operations workload by ~50 person-hours/week.
-- Optimized discount-related partitioned tables and indexes, reducing request processing latency to ~1/10.
+- Designed and launched an automatic promotion-renewal system covering 5,000+ promotions and 20,000+ SKUs.
+- Reduced operation workload by approximately 50 person-hours per week.
+- Optimized discount-related partition strategy and indexes, reducing request latency to around one-tenth.
 
 ### Research Intern, CAXA Technology
 **Jul 2023 – Nov 2023**
 
-- Built a 60,000-scale 3D CAD surface-feature dataset via C++ plugin conversion.
-- Developed a GNN model for CAD face-feature recognition.
-- Supported 3D wireframe fitting with pythonOCC.
-
----
-
-## Research Highlights (Appendix)
-
-I have prepared this section for your latest paper figures.  
-To keep the repository clean and avoid broken links, I left stable placeholders first.  
-If you upload the appendix figures into `/images/research/`, they can be displayed here immediately.
-
-- Suggested filenames:
-  - `/images/research/medical-intelligence.png`
-  - `/images/research/data-annotation-pipeline.png`
-  - `/images/research/mtl-dlinknet.png`
-  - `/images/research/msa-emotion.png`
-  - `/images/research/reasoning-hijacking.png`
-  - `/images/research/soul-framework.png`
-
-Current sample image from your previous projects:
-
-![](/images/CAD.png)
+- Built a 60,000-scale 3D CAD surface-feature dataset through C++ plugin-based conversion.
+- Designed a GNN model for CAD face-feature recognition.
+- Supported generated wireframe fitting to 3D CAD models with pythonOCC.
 
 ---
 
