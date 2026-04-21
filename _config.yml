@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuansen Liu (刘源森)"
 title_separator          : "-"
 name                     : &name "Yuansen Liu (刘源森)"
-description              : &description "Undergraduate student at the School of Software, Beihang University, looking for an opportunity to further his education in Canada."
+description              : &description "MComp (AI) student at NUS, focusing on trustworthy multimodal LLMs and preparing for PhD applications."
 url                      : https://yuan-hou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yuan-Hou/yuan-hou.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yuansen Liu (刘源森)"
-  avatar           : "profile.png"
-  bio              : "Undergraduate, School of Software, Beihang University"
-  location         : "XueYuan Road No.37,<br>HaiDian,BeiJing"
+  avatar           : "bio-photo.jpg"
+  bio              : "MComp (AI), National University of Singapore · Incoming PhD applicant"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  email            : "liuys2024beihang@gmail.com"
+  email            : "e1553663@u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "lys2002 (java.lang.IOException)"
+  steam            :
   tumblr           :
   vine             :
   weibo            :
